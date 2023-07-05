@@ -7,9 +7,7 @@ struct Location
 public:
 	Location();
 	Location(int row, int colomn);
-	int getRow();
 	void setRow(int row);
-	int gerColomn();
 	void setColomn(int colomn);
 	Location operator+=(Location other);
 	bool operator==(Location other);

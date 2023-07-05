@@ -22,20 +22,10 @@ Location::Location(int colomn, int row)
 	}
 }
 
-int Location::getRow()
-{
-	return this->row;
-}
-
 void Location::setRow(int row)
 {
 	if (row >= 0 && row <= 19)
 		this->row = row;
-}
-
-int Location::gerColomn()
-{
-	return this->colomn;
 }
 
 void Location::setColomn(int colomn)

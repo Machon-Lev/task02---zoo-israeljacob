@@ -1,7 +1,0 @@
-C:/Users/yisra/Desktop/to_pass/study/lev/year 3/exelantim/c++/tasks_week3_Israel_Jacob/tasks_week3_Israel_Jacob/out/build/x64-Debug/CMakeFiles/tasks_week3_Israel_Jacob.dir
-C:/Users/yisra/Desktop/to_pass/study/lev/year 3/exelantim/c++/tasks_week3_Israel_Jacob/tasks_week3_Israel_Jacob/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/yisra/Desktop/to_pass/study/lev/year 3/exelantim/c++/tasks_week3_Israel_Jacob/tasks_week3_Israel_Jacob/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/yisra/Desktop/to_pass/study/lev/year 3/exelantim/c++/tasks_week3_Israel_Jacob/tasks_week3_Israel_Jacob/out/build/x64-Debug/include/CMakeFiles/edit_cache.dir
-C:/Users/yisra/Desktop/to_pass/study/lev/year 3/exelantim/c++/tasks_week3_Israel_Jacob/tasks_week3_Israel_Jacob/out/build/x64-Debug/include/CMakeFiles/rebuild_cache.dir
-C:/Users/yisra/Desktop/to_pass/study/lev/year 3/exelantim/c++/tasks_week3_Israel_Jacob/tasks_week3_Israel_Jacob/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
-C:/Users/yisra/Desktop/to_pass/study/lev/year 3/exelantim/c++/tasks_week3_Israel_Jacob/tasks_week3_Israel_Jacob/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir

@@ -8,6 +8,10 @@ Animal::Animal(std::string name)
 	_is_movving = true;
 }
 
+Animal::~Animal()
+{
+}
+
 std::string Animal::get_name() const
 {
 	return _name;

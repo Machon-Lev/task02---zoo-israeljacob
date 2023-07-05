@@ -11,12 +11,13 @@ private:
 	Direction _dir;
 public:
 	Animal(std::string name);
+	virtual ~Animal();
 
 	virtual void printDetails() const = 0;
 	virtual char getInitial() const = 0;
-	std::string get_name() const;
-	Location getLocation() const;
-	Direction get_dir() const;
+	virtual std::string get_name() const;
+	virtual Location getLocation() const;
+	virtual Direction get_dir() const;
 	bool get_is_movving() const;
 	void set_dir(Direction dir);
 	void set_loc(Location loc);
