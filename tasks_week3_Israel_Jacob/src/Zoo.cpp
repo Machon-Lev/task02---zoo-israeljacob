@@ -131,17 +131,7 @@ void Zoo::del(int animal_num)
 void Zoo::delAll(std::string animal_type)
 {
 	for (size_t i = 0; i < list.size(); i++)
-	{
-		char type = list[i]->getInitial();
-		if ((animal_type == "LION" || animal_type == "lION") && type == 'D')
-			list.erase(list.begin() + i);
-
-		else if ((animal_type == "Monkey" || animal_type == "monkey") && type == 'D')
-			list.erase(list.begin() + i);
-
-		else if ((animal_type == "Dog" || animal_type == "dog") && type == 'D')
-			list.erase(list.begin() + i);
-	}
+		list.erase(list.begin() + i);
 }
 
 void Zoo::step()
